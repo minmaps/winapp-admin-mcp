@@ -1,0 +1,12 @@
+.venv/
+.runtime/
+state/
+captures/
+__pycache__/
+.pytest_cache/
+config.json
+test-results.json
+test-notepad-elevated.png
+*.log
+*.bak
+*.tmp
